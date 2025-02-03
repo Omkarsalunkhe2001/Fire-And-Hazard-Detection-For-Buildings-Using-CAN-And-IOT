@@ -1,1 +1,1 @@
-# Sensor-Network-Using-CAN-Protocol-And-IoT
+# Fire and hazard detection for buildings using CAN and IOT
